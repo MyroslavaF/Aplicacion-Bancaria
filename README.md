@@ -35,9 +35,8 @@ La clase `class Banco` tiene las siguientes funcionalidades:
 
 En la clase `class Start` se puede listar las opciones que proponga esta aplicación para realizar las operaciones
 
-##Como arrancar la aplicación
+## Como arrancar la aplicación
+
 Para arrancar la aplicacion en Java, deberá descargar e instalar Java Virtual Machine (JVM) en su computadora.
 
 Para programar en Java  estaba utilizando IDE IntelliJ IDEA 2022.2.
-
-
