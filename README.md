@@ -1,5 +1,6 @@
 # AplicacionBancaria
 
+Esta practica estaba realizando para aprender la asignatura de programacion en Java.
 ## Funcionalidades de la aplicación bancaria
 
 Aplicacion esta conectada con una base de datos de SQLite. Tiene la tabla “cuenta” creada en un motor de base de datos relacionales
