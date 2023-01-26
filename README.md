@@ -1,4 +1,4 @@
-# AplicacionBancaria
+# Aplicación Bancaria
 
 Esta práctica estaba realizando para aprender la asignatura de programación en Java.
 ## Funcionalidades de la aplicación bancaria
